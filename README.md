@@ -1,0 +1,1 @@
+# inverse-right-angle-triangle
